@@ -9,4 +9,4 @@ GANs are an exciting and rapidly changing field, delivering on the promise of ge
 
 <img src = 'video/s7d.png'/>
 
-[Data link](https://www.kaggle.com/knn165897/s7-isp-dataset/d)
+[Data link](https://www.kaggle.com/knn165897/s7-isp-dataset/data)
