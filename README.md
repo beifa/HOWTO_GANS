@@ -7,3 +7,4 @@ GANs are an exciting and rapidly changing field, delivering on the promise of ge
 ### Converting a dark image to a light
 - small pix_to_pix model(s7pixGan)
 
+<img src = 'video/s7d.png'/>
